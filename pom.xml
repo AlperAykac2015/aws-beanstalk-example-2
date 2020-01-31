@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.techprimers.aws</groupId>
 	<artifactId>aws-elastic-beanstalk-example-2</artifactId>
+	<!-- 12122020 estimated relase date -->
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>aws-elastic-beanstalk-example-2</name>
